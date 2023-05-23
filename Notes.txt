@@ -1,0 +1,3 @@
+Supabase => Email: Supabase.todo@gmail.com / Password: SupabaseI@ITodo
+Gmail => Email: Gmail.todo@gmail.com / Password: supal@lTodo
+database pass: Supabase@Todo

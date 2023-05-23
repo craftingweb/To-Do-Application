@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.centred {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centered-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+textarea {
+  resize: none;
+}
