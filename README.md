@@ -1,24 +1,26 @@
+<img width="1012" alt="Screenshot 2023-09-30 at 6 42 21 PM" src="https://github.com/VitaliPri/To-Do-Application/assets/101225909/645ddbd3-5963-4398-b348-eb0a618b2f53">
+
 Description:
 There are three main entities that are relevant to a todo list app: users, lists, and items. Also defined the attributes for each entity, as well as the relationships between them.
 
 Data model can be used to efficiently store and retrieve data about users, their lists, and the tasks associated with those lists in a todo list app. For example, the schema creates SQL queries that allow to filter, add and delete items in user own list.
 
-#Entities:
+Entities:
 - Users
 - Lists
 - Items
   
-#Attributes:
+Attributes:
 - Authentication: email, password
 - Users list: email, first name, last name
 - Lists: list_id, list name, created_at, user_id, items
 - Items: item_id, content, status
 
-#Relationships:
+Relationships:
 - Each user can have many lists, but a list can only be associated with one user (one-to-many relationship).
 - Each list can contain many tasks, and each task can belong to only one list (one-to-many relationship).
   
-#Schema:
+Schema:
 - Users (user_id, name, email, password)
 - Lists (list_id, list name, created_at, user_id, items)
 - Items (item_id, content, status).
