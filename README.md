@@ -1,5 +1,6 @@
 <img width="1012" alt="Screenshot 2023-09-30 at 6 42 21 PM" src="https://github.com/VitaliPri/To-Do-Application/assets/101225909/645ddbd3-5963-4398-b348-eb0a618b2f53">
 <img width="1552" alt="Screenshot 2023-05-20 at 5 21 09 PM" src="https://github.com/VitaliPri/To-Do-Application/assets/101225909/9f482296-d2bf-49b3-abc8-783d0306dc60">
+<img width="944" alt="Screenshot 2023-05-20 at 3 59 14 PM" src="https://github.com/VitaliPri/To-Do-Application/assets/101225909/a5fc1c79-ff62-455a-89de-4fe99c45a926">
 
 
 Description:
